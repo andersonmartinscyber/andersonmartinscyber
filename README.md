@@ -1,16 +1,24 @@
-## Hi there 👋
+# Anderson Martins dos Santos
 
-<!--
-**andersonmartinscyber/andersonmartinscyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Security Engineering | Network Security | Vulnerability Management | Security Automation
 
-Here are some ideas to get you started:
+Cybersecurity professional with a strong background in enterprise IT infrastructure and networking, including implementation, configuration, and maintenance of Cisco, Fortinet FortiGate, and MikroTik environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on bridging infrastructure operations and security engineering through secure network architecture, vulnerability management, infrastructure hardening, monitoring, and automation.
+
+## Core Technologies
+- Networking & Security: Cisco, Fortinet FortiGate, MikroTik
+- Systems: Linux, Windows Server
+- Security: Greenbone/OpenVAS, Wazuh, Kaspersky Security Center, Vulnerability Management
+- Automation: PowerShell, Bash, Python (portfolio development)
+
+## Featured Projects
+- Vulnerability Management Platform — in development
+- Network Security & Asset Visibility — planned
+- Security Hardening Automation — planned
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/andersonmartinsdossantos/
+- GitHub: https://github.com/ams274
+
+> Building practical, reproducible security engineering projects with sanitized or synthetic data.
