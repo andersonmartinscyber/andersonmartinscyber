@@ -19,6 +19,6 @@ My work focuses on bridging infrastructure operations and security engineering t
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/andersonmartinsdossantos/
-- GitHub: https://github.com/ams274
+- GitHub: https://github.com/andersonmartinscyber
 
-> Building practical, reproducible security engineering projects with sanitized or synthetic data.
+> Engineering practical, secure, and reproducible cybersecurity solutions for real-world infrastructure challenges.
