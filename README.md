@@ -1,91 +1,158 @@
+
 # Anderson Martins dos Santos
 
 ### Security Engineering | Network Security | Vulnerability Management | Security Automation
 
-Cybersecurity professional with a strong background in enterprise IT infrastructure, network administration, and security operations.
+Cybersecurity professional with a strong background in enterprise IT infrastructure, network security, and infrastructure operations.
 
-Experienced in implementing, configuring, maintaining, and securing environments involving Cisco, Fortinet FortiGate, MikroTik, Linux, and Windows Server.
+Experienced in implementing, configuring, and maintaining Cisco, Fortinet FortiGate, and MikroTik environments.
 
-Focused on connecting infrastructure operations with cybersecurity engineering through vulnerability management, network visibility, infrastructure hardening, security monitoring, and automation.
+Focused on building secure, scalable, and reproducible cybersecurity solutions through security engineering, vulnerability management, infrastructure hardening, and automation.
 
-## Technical Expertise
+## Areas of Expertise
 
-**Network Infrastructure & Security**
-- Cisco networking and switching
-- Fortinet FortiGate
-- MikroTik
-- Network administration and security
+- Security Engineering
+- Network Security and Architecture
+- Vulnerability Management
+- Asset Discovery and Visibility
+- Security Risk Assessment
+- Infrastructure Hardening
+- Security Monitoring
+- Security Automation
+- Authentication Security
+- Network Troubleshooting
 
-**Systems & Infrastructure**
-- Linux
-- Windows Server
-- Enterprise IT infrastructure
+## Technical Skills
 
-**Cybersecurity & Monitoring**
-- Greenbone/OpenVAS
+### Networking and Infrastructure
+
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square)
+
+### Security Tools
+
+- Greenbone / OpenVAS
 - Wazuh
 - Kaspersky Security Center
-- Vulnerability Management
-- Security Monitoring
+- Kali Linux
+- Nmap
+- Medusa
+- Wireshark
 
-**Automation & Development**
-- Python
-- PowerShell
-- Bash
-- Git and GitHub
+### Programming and Automation
 
-## Featured Project
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### [Vulnerability Management Platform](https://github.com/andersonmartinscyber/vulnerability-management-platform)
+### Engineering Practices
 
-**Python | Streamlit | Greenbone/OpenVAS | Security Analytics**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-A Python-based cybersecurity laboratory project designed to analyze vulnerability data, calculate contextual risk scores, prioritize security findings, and visualize vulnerability metrics.
+- Modular Python development
+- Automated unit and integration testing
+- Continuous Integration (CI)
+- Version control and pull request workflows
+- Technical documentation
+- Structured security reporting
 
-**Key capabilities:**
-- CSV vulnerability analysis and input validation.
-- Greenbone/OpenVAS XML report integration using supported report structures.
-- CVSS severity classification.
-- Contextual risk scoring based on asset criticality and internet exposure.
-- Interactive Streamlit dashboard with Plotly visualizations.
-- JSON security reporting.
-- Automated testing with 60 validated test cases.
+## Featured Security Engineering Projects
 
-**Status:** Functional laboratory prototype. Real-world Greenbone/OpenVAS XML compatibility validation is planned.
+### Network Security & Asset Visibility
 
-[View Project Repository](https://github.com/andersonmartinscyber/vulnerability-management-platform)
+[View Repository](https://github.com/andersonmartinscyber/network-security-asset-visibility)
 
-## Planned Projects
+A modular Python platform for network asset visibility, security configuration assessment, and contextual risk prioritization.
 
-The following projects are part of my cybersecurity portfolio roadmap:
+**Implemented capabilities:**
 
-**Network Security & Asset Visibility**
-- Network device monitoring and discovery.
-- Asset inventory and infrastructure visibility.
-- Network security monitoring.
+- Network asset inventory
+- Security configuration assessment
+- Security metrics and JSON reporting
+- Asset configuration coverage analysis
+- Contextual security risk scoring
+- Remediation prioritization
+- Automated unit and integration testing
+- GitHub Actions CI
 
-**Security Hardening Automation**
-- Security configuration validation.
-- Infrastructure hardening.
-- Automation using Python, PowerShell, and Bash.
+**Current status:** Milestone 05 completed.
 
-These projects are planned and are not yet published as completed implementations.
+**Validation:** 54 automated tests passing.
+
+---
+
+### Vulnerability Management Platform
+
+[View Repository](https://github.com/andersonmartinscyber/vulnerability-management-platform)
+
+A Python-based platform for vulnerability assessment, contextual risk analysis, and remediation prioritization.
+
+**Implemented capabilities:**
+
+- CSV vulnerability data processing
+- CVSS-based severity classification
+- Input validation
+- Contextual risk scoring
+- Asset criticality and exposure analysis
+- Vulnerability prioritization
+- Automated testing
+
+**Current status:** Functional implementation with ongoing development.
+
+---
+
+### Authentication Security Lab
+
+[View Repository](https://github.com/andersonmartinscyber/authentication-security-lab)
+
+A controlled cybersecurity laboratory focused on authentication security assessment and credential attack detection concepts.
+
+**Implemented capabilities:**
+
+- FTP authentication assessment
+- Web application authentication assessment
+- SMB authentication assessment
+- Controlled password security testing
+- Technical evidence collection
+- Security recommendations
+
+**Technologies:** Kali Linux, Medusa, Metasploitable 2, DVWA, FTP and SMB.
+
+**Current status:** Completed laboratory project.
+
+All security testing was performed in an isolated and authorized laboratory environment.
+
+## Security Engineering Roadmap
+
+- [x] Vulnerability Management Platform - Core implementation
+- [x] Network Asset Inventory
+- [x] Network Security Assessment
+- [x] Security Metrics and Reporting
+- [x] Asset Configuration Coverage
+- [x] Contextual Security Risk Prioritization
+- [x] Authentication Security Lab
+- [ ] Security Dashboard and Visualization
+- [ ] Security Hardening Automation
 
 ## Professional Focus
 
-My professional interests include:
-
-- Security Engineering
-- Vulnerability Management
-- Network Security
-- Infrastructure Security
-- Security Monitoring
-- Cybersecurity Automation
+- Infrastructure and network security
+- Risk-informed security engineering
+- Automated security assessments
+- Vulnerability management workflows
+- Security visibility and monitoring
+- Reliable and maintainable security solutions
 
 ## Connect
 
-- **LinkedIn:** [Anderson Martins](https://www.linkedin.com/in/andersonmartinsdossantos/)
-- **GitHub:** [andersonmartinscyber](https://github.com/andersonmartinscyber)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonmartinsdossantos/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andersonmartinscyber)
 
 ---
 
